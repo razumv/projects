@@ -1,6 +1,6 @@
 |  Название  | Актуально | Нода | Активности | Гайд |
 |:----------:|:---------:|:----:|:----------:|:----:|
-| joystream  |     +     |   +  |      +     |   [1](https://razumv.tech/joystream-registration) [2](https://razumv.tech/joystream-node){:target="_blank"}  |
+| joystream  |     +     |   +  |      +     |   [1](https://razumv.tech/joystream-registration) [2](https://razumv.tech/joystream-node)  |
 | hydradx    |     -     |   +  |      -     |   [1](https://razumv.tech/hydradx) [2](https://razumv.tech/hydradx-validator) |
 | moonbeam   |     +     |   +  |      +     |   [1](https://razumv.tech/moonbeam)  |
 | nym        |     -     |   +  |      -     |   [1](https://razumv.tech/nym)  |
