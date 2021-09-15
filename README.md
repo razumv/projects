@@ -1,6 +1,6 @@
 |  Название  | Актуально | Нода | Активности | Гайд |
 |:----------:|:---------:|:----:|:----------:|:----:|
-| joystream  |     +     |   +  |      +     |   [+](https://link-url-here.org)  |
+| joystream  |     +     |   +  |      +     |   [1](https://razumv.tech/joystream-registration) [2](https://razumv.tech/joystream-registration)  |
 | hydradx    |     -     |   +  |      -     |   +  |
 | moonbeam   |     +     |   +  |      +     |   +  |
 | nym        |     -     |   +  |      -     |   +  |
