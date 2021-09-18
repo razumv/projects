@@ -17,4 +17,5 @@
 | alephzero  |     +     |      |            |     |
 | massa      |     +     |   +  |      -     |   [1](https://razumv.tech/massa)  |
 | streamr    |     +     |   +  |      -     |   [1](https://razumv.tech/streamr)  |
+| polkadex   |     -     |   +  |      -     |   [1](https://razumv.tech/polkadex)  |
 | solana     |     *     |   +  |      -     |   [1](https://razumv.tech/solana-start-tds) [2](https://razumv.tech/solana-start-mb)  |
